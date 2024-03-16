@@ -4,7 +4,7 @@ This repository contains the code for building a Netflix-inspired home page usin
 
 ## Preview
 
-  - Click here to preview the website https://pavanpraneeth7.github.io/Bharath_internship/
+  - Click here to preview the website https://pavanpraneeth7.github.io/Bharat_internship/
 
 ## Features
 
